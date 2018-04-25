@@ -1,0 +1,2 @@
+$ adb shell am start -n "br.ufg.inf.es.antoniosilva/br.ufg.inf.es.antoniosilva.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER
+Connected to process 28859 on device samsung-sm_j320m-42005d7dd49ec200
